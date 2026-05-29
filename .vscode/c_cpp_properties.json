@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+              //  "${default}",
+                "${workspaceFolder}/**",
+               // "C:/cpp/mingw64-posix/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                //"C:/cpp/mingw64-posix/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+               // "C:/cpp/mingw64-posix/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+               // "C:/cpp/mingw64-posix/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+               // "C:/cpp/mingw64-posix/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                //"C:/cpp/mingw64-posix/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include",
+                //"C:/cpp/Package/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/bin",
+                //"C:/cpp/Package/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2",
+                "C:/cpp/Package/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            //"cStandard": "c17",
+            //"cppStandard": "c++17",
+           // "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:/cpp/mingw64-posix/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}
